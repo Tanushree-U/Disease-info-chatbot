@@ -48,6 +48,7 @@
 ##Output:
   When the program runs, a chatbot interface opens. The users can type the name of the disease and send it to the chatbot. The chatbot displays the imformation related to the disease such as causes, symptoms and remedies. After displaying the information, the chatbot asks the user if they want to know about any other disease.
 
-
+##Sample output:
+  https://github.com/Tanushree-U/Disease-info-chatbot/blob/main/Screenshot%202026-02-25%20155540.png
 
 
